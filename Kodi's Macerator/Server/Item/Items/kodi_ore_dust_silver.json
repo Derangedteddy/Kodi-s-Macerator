@@ -1,0 +1,15 @@
+{
+  "TranslationProperties": {
+    "Name": "Silver Ore Dust",
+    "Description": "The macerated dust of silver ore."
+  },
+  "Id": "kodi_ore_dust_silver",
+  "Icon": "Icons/ItemsGenerated/kodi_ore_dust_silver_icon.png",
+  "Model": "Items/kodi_ore_dust.blockymodel",
+  "Texture": "Items/kodi_ore_dust_texture_silver.png",
+  "Quality": "Common",
+  "MaxStack": 100,
+  "Categories": [
+    "Items.Example"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Items/motor.ogg"
+      ],
+      "Looping": true
+    }
+  ],
+  "Volume": 1.0
+}

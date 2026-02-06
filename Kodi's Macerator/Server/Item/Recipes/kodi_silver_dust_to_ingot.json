@@ -1,0 +1,19 @@
+{
+    "Input": [
+        {
+        "ItemId": "kodi_ore_dust_silver",
+        "Quantity": 1
+        }
+    ],
+    "PrimaryOutput": {
+        "ItemId": "Ingredient_Bar_Silver",
+        "Quantity": 1
+    },
+    "BenchRequirement": [
+        {
+        "Type": "Processing",
+        "Id": "Furnace"
+        }
+    ],
+    "TimeSeconds": 7
+}

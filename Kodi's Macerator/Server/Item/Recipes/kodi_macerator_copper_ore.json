@@ -1,0 +1,19 @@
+{
+    "Input": [
+        {
+        "ItemId": "Ore_Copper",
+        "Quantity": 1
+        }
+    ],
+    "PrimaryOutput": {
+        "ItemId": "kodi_ore_dust_copper",
+        "Quantity": 2
+    },
+    "BenchRequirement": [
+        {
+        "Type": "Processing",
+        "Id": "kodi_macerator"
+        }
+    ],
+    "TimeSeconds": 5
+}

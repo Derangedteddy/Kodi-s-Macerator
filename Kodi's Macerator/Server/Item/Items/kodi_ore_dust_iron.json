@@ -1,0 +1,15 @@
+{
+  "TranslationProperties": {
+    "Name": "Iron Ore Dust",
+    "Description": "The macerated dust of iron ore."
+  },
+   "Id": "kodi_ore_dust_iron",
+  "Icon": "Icons/ItemsGenerated/kodi_ore_dust_iron_icon.png",
+  "Model": "Items/kodi_ore_dust.blockymodel",
+  "Texture": "Items/kodi_ore_dust_texture_iron.png",
+  "Quality": "Common",
+  "MaxStack": 100,
+  "Categories": [
+    "Items.Example"
+  ]
+}

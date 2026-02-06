@@ -1,0 +1,19 @@
+{
+    "Input": [
+        {
+        "ItemId": "kodi_ore_dust_adamantium",
+        "Quantity": 1
+        }
+    ],
+    "PrimaryOutput": {
+        "ItemId": "Ingredient_Bar_Adamantite",
+        "Quantity": 1
+    },
+    "BenchRequirement": [
+        {
+        "Type": "Processing",
+        "Id": "Furnace"
+        }
+    ],
+    "TimeSeconds": 7
+}

@@ -1,0 +1,19 @@
+{
+    "Input": [
+        {
+        "ItemId": "Ore_Thorium",
+        "Quantity": 1
+        }
+    ],
+    "PrimaryOutput": {
+        "ItemId": "kodi_ore_dust_thorium",
+        "Quantity": 2
+    },
+    "BenchRequirement": [
+        {
+        "Type": "Processing",
+        "Id": "kodi_macerator"
+        }
+    ],
+    "TimeSeconds": 13
+}

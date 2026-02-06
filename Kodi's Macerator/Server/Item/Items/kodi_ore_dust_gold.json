@@ -1,0 +1,15 @@
+{
+  "TranslationProperties": {
+    "Name": "Gold Ore Dust",
+    "Description": "The macerated dust of gold ore."
+  },
+  "Id": "kodi_ore_dust_gold",
+  "Icon": "Icons/ItemsGenerated/kodi_ore_dust_gold_icon.png",
+  "Model": "Items/kodi_ore_dust.blockymodel",
+  "Texture": "Items/kodi_ore_dust_texture_gold.png",
+  "Quality": "Common",
+  "MaxStack": 100,
+  "Categories": [
+    "Items.Example"
+  ]
+}

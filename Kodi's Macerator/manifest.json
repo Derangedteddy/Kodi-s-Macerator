@@ -1,0 +1,21 @@
+{
+  "Group": "KodisMacerator",
+  "Name": "KodisMacerator",
+  "Version": "0.0.1",
+  "Description": "Adds an ore macerator that essentially functions as a duplicator.",
+  "Authors": [
+    {
+      "Name": "KodiBurr",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
